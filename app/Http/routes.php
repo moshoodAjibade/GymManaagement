@@ -1,0 +1,1 @@
+Route::get('/foo/bar','UriController@index');
